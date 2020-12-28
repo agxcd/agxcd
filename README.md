@@ -41,5 +41,3 @@ A Junior Full-stack developer based in Vancouver, BC
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agxcd&show_icons=true&locale=en&layout=compact" alt="agxcd" />
 <br/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=agxcd&show_icons=true&locale=en" alt="agxcd" />
