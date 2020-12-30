@@ -34,7 +34,6 @@ A Junior Full-stack developer based in Vancouver, BC
   <img src="https://img.icons8.com/dusk/64/000000/react.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/nolan/64/swift.png"/>
 </p>
 
 <br/>
