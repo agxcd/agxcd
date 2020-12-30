@@ -19,7 +19,7 @@ A Junior Full-stack developer based in Vancouver, BC
 
 - 🔭 I’m currently enrolled in Full-Stack Web Dev Bootcamp @ Lighthouse Labs!
 
-- 🌱 I’m currently learning Figma, Ruby, SWIFT
+- 🌱 I’m currently learning Figma, Ruby
 
 <br/>
 
