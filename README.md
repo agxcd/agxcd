@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋, I'm Angie 
-A Junior Full-stack developer based in Vancouver, BC 
+    🌱  A Junior Full-stack developer based in Vancouver, BC 
 
-- 🔭 I’m currently enrolled in Full-Stack Web Dev Bootcamp @ Lighthouse Labs!
-
-- 🌱 I’m currently learning Figma, Ruby
 
 <br/>
 
