@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋, I'm Angie 
-    🌱  A Junior Full-stack developer based in Vancouver, BC 
+    🌱  Full-stack developer based in Vancouver, BC 
 
 
 <br/>
